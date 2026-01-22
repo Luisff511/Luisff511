@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋 I´m Luis Fernando Franco Morales</h1>
-
 ###
 
 <div align="center">
