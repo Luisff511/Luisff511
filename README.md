@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ###
 
 <h1 align="center">
-# Hi! I´m Luis Fernando Franco Morales 👋
-## 🌱 I’m currently learning: Master in Full Stack & Artificial Intelligence (Conquer Blocks).
-## 👋 Developer in training with 1 year of experience learning programming.
-## 🔍 Main interests: Backend and Data.
-## 💡 I stand out for my enthusiasm, perseverance, and commitment to doing things right.
-## 🎯 Professional goal: full transition to the tech sector as a developer.</h1>
+</h1>Hi! I´m Luis Fernando Franco Morales 👋</h1>
+</h1>🌱 I’m currently learning: Master in Full Stack & Artificial Intelligence (Conquer Blocks).</h1>
+</h1>👋 Developer in training with 1 year of experience learning programming.</h1>
+</h1>🔍 Main interests: Backend and Data.</h1>
+</h1>💡 I stand out for my enthusiasm, perseverance, and commitment to doing things right.</h1>
+</h1>🎯 Professional goal: full transition to the tech sector as a developer.</h1>
 
 ###
 
